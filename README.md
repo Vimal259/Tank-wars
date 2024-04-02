@@ -1,9 +1,9 @@
-# Tank-Stars
+# Tank-Wars
 
-Tank Stars is a 2-player tank fight game, where both the tanks fight with each other using projectiles. We have given keyboard input for the game. There will also be a fuel indicator,
+Tank Wars is a 2-player tank fight game, where both the tanks fight with each other using projectiles. We have given keyboard input for the game. There will also be a fuel indicator,
 indicating the tanks are allowed to replace by a certain distance only.
 
-This is an implementation of the game Tank Stars, using Java Libgdx, Gradle project. LibGDX is a Java Game Devlopment Framework recently launched.
+This is an implementation of the game Tank Wars, using Java Libgdx, Gradle project. LibGDX is a Java Game Devlopment Framework recently launched.
 This game implements most of the features of the game along with some innovative new features. 
 We have implemented three variety of tanks, along with 2 design patterns, namely, iterator and strategy. 
 Moreover, we have used splash screen for shooting and serialised/deserialised the game to store and load the saved games from previous points. 
